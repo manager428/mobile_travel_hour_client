@@ -1,0 +1,132 @@
+name: travel_hour
+description: A new Flutter application.
+
+
+version: 2.0.0+7
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  provider: ^3.2.0
+  connectivity: ^0.4.8+1
+  flutter_facebook_login: ^3.0.0
+  shimmer: ^1.1.0
+  
+  cloud_firestore: ^0.13.4+2
+  firebase_storage: ^3.1.3
+  font_awesome_flutter: ^8.5.0
+  
+  firebase_auth: ^0.15.5+3
+  google_sign_in: ^4.2.0
+  shared_preferences: ^0.5.6+3
+  cached_network_image: ^2.0.0
+  image_picker: ^0.6.1+4
+  google_maps_flutter: ^0.5.25
+  cupertino_icons: ^0.1.2
+  carousel_pro: ^1.0.0
+  flare_flutter: ^1.6.2
+  line_icons: ^0.2.0
+  dots_indicator: ^1.0.0
+  flutter_staggered_animations: ^0.1.2
+  sliding_up_panel: ^0.3.5
+  toast: ^0.1.5
+  intl: ^0.16.0
+  http: ^0.11.3
+  share: ^0.6.3
+  md2_tab_indicator: ^1.0.2
+  
+  flutter_html: ^0.11.1
+  
+  geo: ^0.2.4
+  google_map_polyline: ^0.2.0+1
+  url_launcher: ^5.4.2
+  bottom_navy_bar: ^5.3.2
+  package_info: ^0.4.0+16
+  launch_review: ^2.0.0
+
+  youtube_player_flutter: ^7.0.0+7
+  maps_launcher: ^1.2.1
+  sign_in_with_apple: ^2.5.1
+  webview_flutter: ^0.3.22+1
+  photo_view: ^0.10.2
+  kumi_popup_window: ^1.0.10
+  
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/search.png
+    - assets/images/travel1.png
+    - assets/images/travel2.png
+    - assets/flr/success.flr
+    - assets/flr/load.flr
+    - assets/flr/splash.flr
+    - assets/images/travel4.png
+    - assets/images/travel5.png
+    - assets/images/travel6.png
+    - assets/images/empty.png
+    - assets/images/restaurant.png
+    - assets/images/hotel.png
+    - assets/images/splash.png
+    - assets/images/icon.png
+    - assets/images/applogo.png
+
+
+
+  fonts:
+    
+    
+
+
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Light.ttf
+          weight: 400
+        - asset: fonts/Poppins-Regular.ttf
+          weight: 500
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 600
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 700
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 800
+
+
+    - family: Muli
+      fonts:
+        - asset: fonts/Muli-Light.ttf
+          weight: 400
+        - asset: fonts/Muli-Regular.ttf
+          weight: 500
+        - asset: fonts/Muli-Medium.ttf
+          weight: 600
+        - asset: fonts/Muli-SemiBold.ttf
+          weight: 700
+        - asset: fonts/Muli-Bold.ttf
+          weight: 800

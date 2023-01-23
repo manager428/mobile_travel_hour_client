@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">Visit Southern Idaho</string>    <!-- app name that you created on developer.facebook.com -->
+   <string name="facebook_app_id">281758096275382</string>   <!-- app id -->
+   <string name="fb_login_protocol_scheme">fb281758096275382</string>     <!-- fb+app id -->
+</resources>

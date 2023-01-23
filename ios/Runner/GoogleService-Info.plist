@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>398308670635-h5891hpjhd5sm9eo8lqql2j07orah28p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.398308670635-h5891hpjhd5sm9eo8lqql2j07orah28p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOxNax41i3FjmG1wtx76YFVr3BcWfmsfw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>398308670635</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.southernidaho.visit.app</string>
+	<key>PROJECT_ID</key>
+	<string>visit-southern-idaho</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visit-southern-idaho.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:398308670635:ios:bb57f042f1dde8bb2e8bee</string>
+	<key>DATABASE_URL</key>
+	<string>https://visit-southern-idaho.firebaseio.com</string>
+</dict>
+</plist>

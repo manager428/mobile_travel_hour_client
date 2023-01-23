@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398308670635",
+    "firebase_url": "https://visit-southern-idaho.firebaseio.com",
+    "project_id": "visit-southern-idaho",
+    "storage_bucket": "visit-southern-idaho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398308670635:android:045a15c47f2b98e32e8bee",
+        "android_client_info": {
+          "package_name": "com.southernidaho.visit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398308670635-hbh8nj7earjos9q9nmunbl1bitgkua3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.southernidaho.visit.app",
+            "certificate_hash": "8d478234c0dd0539ea3108aad6d0342c08bc16fa"
+          }
+        },
+        {
+          "client_id": "398308670635-8gs1f9193k8gilbtrmoa9qmpnme521dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1AJsWvjEuqM9g-VtdzQRIrhpLxqlzZas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398308670635-8gs1f9193k8gilbtrmoa9qmpnme521dc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398308670635-h5891hpjhd5sm9eo8lqql2j07orah28p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.southernidaho.visit.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
